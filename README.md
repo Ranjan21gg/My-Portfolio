@@ -1,7 +1,7 @@
 **🧑‍💻 Author**
 
 **Ranjan Kumar Sahoo**
-📧 Email: ranjankumarsahoo254@gmail.com
+##📧 Email: ranjankumarsahoo254@gmail.com
 ## 💼[LinkedIn](https://www.linkedin.com/in/ranjan-kumar-sahoo)
 
 # My Portfolio 🌐
@@ -13,6 +13,5 @@ This is my personal portfolio website showcasing my skills, projects, and contac
 - JavaScript  
 
 ## [🔗 Live Demo](https://ranjan21gg.github.io/My-Portfolio/)
-[🔗 View Portfolio]
 
 ⭐ Star this repo if you like it!
